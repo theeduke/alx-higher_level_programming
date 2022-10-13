@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" an empty class"""
+"""an empty class"""
 
 class Square:
     """This is an empty class"""
