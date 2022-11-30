@@ -1,2 +1,2 @@
---code to show all databses
-SHOW databases;
+-- code to show all databses
+SHOW DATABASES;
